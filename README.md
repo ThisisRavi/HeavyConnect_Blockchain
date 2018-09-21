@@ -1,2 +1,2 @@
 # HeavyConnect_Blockchain
-Implementing blockchain
+This project is to imlpement IBM Food Trust blockchain to HeavyConnect network.
